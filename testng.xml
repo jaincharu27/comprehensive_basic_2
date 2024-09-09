@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Make My Trip">
+	<test name="Verify Flight Search">
+		<classes>
+			<class name="com.sample.project.FlightSearch_problem_2_3_4" />
+			<class name="com.sample.project.ReadAndWriteData" />
+		</classes>
+	</test>
+</suite>
